@@ -21,7 +21,8 @@
   kcnancy: https://github.com/kcnancy/NoteTaker 
   ## License
   The application you're enjoying is covered under the MIT license.
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://img.shields.io/badge/License-MIT-yellow) 
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   ## Screenshot 
   <img width="1273" alt="Screen Shot 2021-05-16 at 11 02 13 PM" src="https://user-images.githubusercontent.com/76064980/118429619-13508a00-b6a0-11eb-9da4-b950172ee620.png"> 
   
