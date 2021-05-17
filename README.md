@@ -16,16 +16,21 @@
   ### Instructions 📝
   In the terminal, type in ' npm start'
   ## Credits 📋
-  Fellow classmate - Amy Smerlick 
-  used as a guide - juanlajara: https://github.com/juanlajara/Note-Taker and 
+ - Fellow classmate: Amy Smerlick 
+ - used as a guide; juanlajara: https://github.com/juanlajara/Note-Taker and 
   kcnancy: https://github.com/kcnancy/NoteTaker 
   ## License
   The application you're enjoying is covered under the MIT license.
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://img.shields.io/badge/License-MIT-yellow) 
   ## Screenshot 
+  <img width="1273" alt="Screen Shot 2021-05-16 at 11 02 13 PM" src="https://user-images.githubusercontent.com/76064980/118429619-13508a00-b6a0-11eb-9da4-b950172ee620.png"> 
   
-  ## Links 
+  <img width="1280" alt="Screen Shot 2021-05-16 at 11 03 48 PM" src="https://user-images.githubusercontent.com/76064980/118429629-1b102e80-b6a0-11eb-8b7b-90ea92ea7180.png">
 
+<img width="1270" alt="Screen Shot 2021-05-16 at 10 59 21 PM" src="https://user-images.githubusercontent.com/76064980/118429640-219ea600-b6a0-11eb-997f-c4b062eede8d.png">
+
+  ## Links 
+https://special-note-taker.herokuapp.com/
   # Questions 💡
     For questions, please email me, or contact me via GitHub.
   * Email ✉️: raquan.stanley@gmail.com
